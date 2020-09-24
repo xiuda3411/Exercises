@@ -4,13 +4,13 @@
  * @author: 宋丽
  * @create: 2020-09-24 13:54
  **/
-public class countPrimes {
+public class CountPrimes {
     /**
      * 我的方法，暴力求解法优化后勉强达到执行用时的要求
      * @param n
      * @return
      */
-    public int countprimes(int n) {
+    public int countPrimes(int n) {
         int sum = 1;
         if(n < 3){
             return 0;
