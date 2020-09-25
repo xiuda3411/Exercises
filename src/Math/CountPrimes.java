@@ -1,3 +1,5 @@
+package Math;
+
 /**
  * @program: Exercises
  * @description: 计算质数
