@@ -1,4 +1,4 @@
-/**
+package Math; /**
  * @program: Exercises
  * @description: 初级算法，数学类
  * @author: 宋丽
