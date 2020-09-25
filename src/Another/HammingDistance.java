@@ -1,3 +1,5 @@
+package Another;
+
 /**
  * @program: Exercises
  * @description: 汉明距离
