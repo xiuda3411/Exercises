@@ -1,3 +1,5 @@
+package Another;
+
 /**
  * @program: Exercises
  * @description: 求汉明重量
