@@ -1,3 +1,5 @@
+package Math;
+
 /**
  * @program: Exercises
  * @description: 判断是否是3的幂
