@@ -8,7 +8,7 @@ import java.util.*;
  * @author: 宋丽
  * @create: 2020-09-26 21:46
  **/
-public class bracketIsValid {
+public class BracketIsValid {
     /**
      * 我的解法
      * 用栈，写有点乱，官方给的很清晰
