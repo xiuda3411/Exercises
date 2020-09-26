@@ -8,4 +8,6 @@
 - [hammingWeight 汉明重量](https://github.com/xiuda3411/Exercises/blob/master/src/Another/HammingWeight.java)
 - [hammingDistance 汉明距离](https://github.com/xiuda3411/Exercises/blob/master/src/Another/HammingDistance.java)
 - [reverseBits 颠倒二进制位](https://github.com/xiuda3411/Exercises/blob/master/src/Another/ReverseBits.java)
+- [bracketIsValid 有效的括号](https://github.com/xiuda3411/Exercises/blob/master/src/Another/BracketIsValid.java)
+- [generate 杨辉三角](https://github.com/xiuda3411/Exercises/blob/master/src/Another/Generate.java)
 
