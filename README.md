@@ -7,3 +7,5 @@
 ### 其他
 - [hammingWeight 汉明重量](https://github.com/xiuda3411/Exercises/blob/master/src/Another/HammingWeight.java)
 - [hammingDistance 汉明距离](https://github.com/xiuda3411/Exercises/blob/master/src/Another/HammingDistance.java)
+- [reverseBits 颠倒二进制位](https://github.com/xiuda3411/Exercises/blob/master/src/Another/ReverseBits.java)
+
