@@ -10,4 +10,6 @@
 - [reverseBits 颠倒二进制位](https://github.com/xiuda3411/Exercises/blob/master/src/Another/ReverseBits.java)
 - [bracketIsValid 有效的括号](https://github.com/xiuda3411/Exercises/blob/master/src/Another/BracketIsValid.java)
 - [generate 杨辉三角](https://github.com/xiuda3411/Exercises/blob/master/src/Another/Generate.java)
-
+### 数组和字符串
+- [threeSum 三数之和](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/ThreeSum.java)
+- [setZeroes 矩阵置零](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/SetZeroes.java)
