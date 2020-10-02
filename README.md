@@ -16,3 +16,4 @@
 - [groupAnagrams 字母异位词分组](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/GroupAnagrams.java)
 - [lengthOfLongestSubstring 无重复字符的最长子串](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/LengthOfLongestSubstring.java)
 - [longestPalindrome 最长回文子串](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/LongestPalindrome.java)
+- [increasingTriplet 递增的三元子序列](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/IncreasingTriplet.java)
