@@ -11,6 +11,14 @@ import java.util.List;
  * @create: 2020-10-05 20:48
  **/
 public class FourSum {
+    /**
+     * 我的解法
+     * 双重循环加上双指针
+     * 每重循环和双指针部分都要进行去重
+     * @param nums
+     * @param target
+     * @return
+     */
     public List<List<Integer>> fourSum(int[] nums, int target) {
         List<List<Integer>> lists = new ArrayList<>();
         Arrays.sort(nums);
@@ -18,9 +26,12 @@ public class FourSum {
         if (len > 5){
             for (int i = 0; i < len-3; i++){
                 System.out.println(1);
+                if ( i > 0 && nums[i] == nums[i-1]){
+                    continue;
+                }
                 for (int j = i+1 ; j < len-2; j++){
                     if (j > i+1 && nums[j] == nums[j-1]){
-                        j++;
+                        continue;
                     }
                     int m = j+1;
                     int n = len-1;
