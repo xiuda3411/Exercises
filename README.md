@@ -12,6 +12,7 @@
 - [generate 杨辉三角](https://github.com/xiuda3411/Exercises/blob/master/src/Another/Generate.java)
 ### 数组和字符串
 - [threeSum 三数之和](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/ThreeSum.java)
+- [fourSum 四数之和](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/FourSum.java)
 - [setZeroes 矩阵置零](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/SetZeroes.java)
 - [groupAnagrams 字母异位词分组](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/GroupAnagrams.java)
 - [lengthOfLongestSubstring 无重复字符的最长子串](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/LengthOfLongestSubstring.java)
