@@ -20,3 +20,4 @@
 ### 链表
 - [addTwoNumbers 两数相加](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/AddTwoNumbers.java)
 - [oddEvenList 奇偶链表](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/OddEvenList.java)
+- [getIntersectionNode 相交链表](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/GetIntersectionNode.java)
