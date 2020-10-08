@@ -1,4 +1,4 @@
-package LinkedList;
+package TreeAndMap;
 
 /**
  * @program: Exercises
