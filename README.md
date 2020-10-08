@@ -23,4 +23,8 @@
 - [addTwoNumbers 两数相加](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/AddTwoNumbers.java)
 - [oddEvenList 奇偶链表](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/OddEvenList.java)
 - [getIntersectionNode 相交链表](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/GetIntersectionNode.java)
-- [InorderTraversal 二叉树的中序遍历](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/InorderTraversal.java)
+### 树和图
+- [inorderTraversal 二叉树的中序遍历](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/InorderTraversal.java)
+- [buildTree 从前序与中序遍历序列构造二叉树](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/BuildTree.java)
+- [zigzagLevelOrder 锯齿形层次遍历](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/ZigzagLevelOrder.java)
+- [sumOfDistancesInTree 树中距离之和 :sos:](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/SumOfDistancesInTree.java)
