@@ -27,4 +27,4 @@
 - [inorderTraversal 二叉树的中序遍历](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/InorderTraversal.java)
 - [buildTree 从前序与中序遍历序列构造二叉树](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/BuildTree.java)
 - [zigzagLevelOrder 锯齿形层次遍历](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/ZigzagLevelOrder.java)
-- [sumOfDistancesInTree 树中距离之和](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/SumOfDistancesInTree.java)
+- [sumOfDistancesInTree 树中距离之和 :sos:](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/SumOfDistancesInTree.java)
