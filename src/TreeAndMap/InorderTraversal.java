@@ -1,4 +1,4 @@
-package LinkedList;
+package TreeAndMap;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -23,7 +23,7 @@ public class InorderTraversal {
         return list;
     }
 
-    static void inorder(TreeNode treeNode,List<Integer> list){
+    static void inorder(TreeNode treeNode, List<Integer> list){
         if (treeNode == null){
             return;
         }
