@@ -46,7 +46,7 @@ public class Connect {
         if (root == null) {
             return null;
         }
-        // 使用已建立的 n44ext 指针
+        // 使用已建立的 next 指针
         Node currLeftMost = root;
         Node curr = null;
 
