@@ -10,6 +10,7 @@
 - [reverseBits 颠倒二进制位](https://github.com/xiuda3411/Exercises/blob/master/src/Another/ReverseBits.java)
 - [bracketIsValid 有效的括号](https://github.com/xiuda3411/Exercises/blob/master/src/Another/BracketIsValid.java)
 - [generate 杨辉三角](https://github.com/xiuda3411/Exercises/blob/master/src/Another/Generate.java)
+- [missingNumber 查找缺失值](https://github.com/xiuda3411/Exercises/blob/master/src/Another/MissingNumber.java)
 ### 数组和字符串
 - [threeSum 三数之和](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/ThreeSum.java)
 - [fourSum 四数之和](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/FourSum.java)
@@ -19,9 +20,11 @@
 - [longestPalindrome 最长回文子串](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/LongestPalindrome.java)
 - [increasingTriplet 递增的三元子序列](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/IncreasingTriplet.java)
 - [sortColors 颜色排序](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/SortColors.java)
+- [reverseString 反转字符串](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/ReverseString.java)
 ### 链表
 - [addTwoNumbers 两数相加](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/AddTwoNumbers.java)
 - [oddEvenList 奇偶链表](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/OddEvenList.java)
+- [hasCycle 环形链表](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/HasCycle.java)
 - [getIntersectionNode 相交链表](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/GetIntersectionNode.java)
 ### 树和图
 - [inorderTraversal 二叉树的中序遍历](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/InorderTraversal.java)
@@ -29,3 +32,5 @@
 - [zigzagLevelOrder 锯齿形层次遍历](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/ZigzagLevelOrder.java)
 - [sumOfDistancesInTree 树中距离之和 :sos:](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/SumOfDistancesInTree.java)
 - [connect 填充每个结点的下一个右侧结点指针](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/Connect.java)
+- [kthSmallest 二叉搜索树中第k小的元素](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/KthSmallest.java)
+- [numIslands 岛屿数量](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/NumIslands.java)
