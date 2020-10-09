@@ -18,26 +18,27 @@ public class Connect {
      * @return
      */
     public Node connect(Node root) {
-        List<List<Integer>> lists = new ArrayList<>();
+        if (root == null) {
+            return root;
+        }
+
         LinkedList<Node> queue = new LinkedList<>();
         queue.add(root);
-        while (!queue.isEmpty()){
-            LinkedList<Node> nextqueue = new LinkedList<>();
-                while (!queue.isEmpty()){
-                    //弹出队列中第一个元素
-                    Node t =  queue.pop();
-                    //如果第一个元素不为空
-                    if (t != null){
-                        if (!queue.isEmpty()){
-                            t.next = queue.peek();
-                        }else {
-                            t.next = null;
-                        }
-                        nextqueue.add(t.left);
-                        nextqueue.add(t.right);
-                    }
+        while (queue.size()>0) {
+            int size = queue.size();
+            for (int i = 0; i < size; i++) {
+                Node node = queue.poll();
+                if (i < size - 1) {
+                    node.next = queue.peek();
                 }
-            queue = nextqueue;
+                if (node.left != null) {
+                    queue.add(node.left);
+                }
+
+                if (node.right != null) {
+                    queue.add(node.right);
+                }
+            }
         }
         return root;
     }
