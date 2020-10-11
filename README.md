@@ -25,6 +25,7 @@
 - [addTwoNumbers 两数相加](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/AddTwoNumbers.java)
 - [oddEvenList 奇偶链表](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/OddEvenList.java)
 - [hasCycle 环形链表](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/HasCycle.java)
+- [detectCycle 环形链表2](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/DetectCycle.java)
 - [getIntersectionNode 相交链表](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/GetIntersectionNode.java)
 ### 树和图
 - [inorderTraversal 二叉树的中序遍历](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/InorderTraversal.java)
@@ -34,3 +35,8 @@
 - [connect 填充每个结点的下一个右侧结点指针](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/Connect.java)
 - [kthSmallest 二叉搜索树中第k小的元素](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/KthSmallest.java)
 - [numIslands 岛屿数量](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/NumIslands.java)
+### 回溯
+- [generateParenthesis 括号生成](https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/GenerateParenthesis.java)
+- [letterCombinations 电话号码的字母组合](https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/LetterCombinations.java)
+### 动态规划
+- [CanPartition 分割等和子集](https://github.com/xiuda3411/Exercises/blob/master/src/DynamicProgramming/CanPartition.java)
