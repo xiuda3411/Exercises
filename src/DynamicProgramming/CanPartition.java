@@ -1,4 +1,4 @@
-package ArraysAndStrings;
+package DynamicProgramming;
 
 /**
  * @program: Exercises
