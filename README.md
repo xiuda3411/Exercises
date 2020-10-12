@@ -29,6 +29,7 @@
 - [getIntersectionNode 相交链表](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/GetIntersectionNode.java)
 ### 树和图
 - [inorderTraversal 二叉树的中序遍历](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/InorderTraversal.java)
+- [getMinimumDifference 二叉搜索树的最小绝对值](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/GetMinimumDifference.java)
 - [buildTree 从前序与中序遍历序列构造二叉树](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/BuildTree.java)
 - [zigzagLevelOrder 锯齿形层次遍历](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/ZigzagLevelOrder.java)
 - [sumOfDistancesInTree 树中距离之和 :sos:](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/SumOfDistancesInTree.java)
@@ -38,5 +39,7 @@
 ### 回溯
 - [generateParenthesis 括号生成](https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/GenerateParenthesis.java)
 - [letterCombinations 电话号码的字母组合](https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/LetterCombinations.java)
+- [permute 全排列](https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/Permute.java)
+- [subsets 子集](https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/Subsets.java)
 ### 动态规划
 - [CanPartition 分割等和子集](https://github.com/xiuda3411/Exercises/blob/master/src/DynamicProgramming/CanPartition.java)
