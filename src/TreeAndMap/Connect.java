@@ -43,6 +43,11 @@ public class Connect {
         return root;
     }
 
+    /**
+     * 用指针
+     * @param root
+     * @return
+     */
     public Node connect2(Node root) {
         if (root == null) {
             return null;
@@ -66,4 +71,19 @@ public class Connect {
         return root;
     }
 
+    /**
+     *
+     * @param root
+     * @return
+     */
+    public Node connect3(Node root) {
+        if (root == null || root.left == null){
+            return root;
+        }
+        root.left.next = root.right;
+        root.right.next = root.next == null ? null : root.next.left;
+        connect3(root.left);
+        connect3(root.right);
+        return root;
+    }
 }
