@@ -21,12 +21,14 @@
 - [increasingTriplet 递增的三元子序列](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/IncreasingTriplet.java)
 - [sortColors 颜色排序](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/SortColors.java)
 - [reverseString 反转字符串](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/ReverseString.java)
+- [commonChars 查找常用字符](https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/CommonChars.java)
 ### 链表
 - [addTwoNumbers 两数相加](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/AddTwoNumbers.java)
 - [oddEvenList 奇偶链表](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/OddEvenList.java)
 - [hasCycle 环形链表](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/HasCycle.java)
 - [detectCycle 环形链表2](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/DetectCycle.java)
 - [getIntersectionNode 相交链表](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/GetIntersectionNode.java)
+- [swapPairs 两两交换链表中的结点](https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/SwapPairs.java)
 ### 树和图
 - [inorderTraversal 二叉树的中序遍历](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/InorderTraversal.java)
 - [getMinimumDifference 二叉搜索树的最小绝对值](https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/GetMinimumDifference.java)
