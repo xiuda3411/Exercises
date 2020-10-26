@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * @program: Exercises
- * @description:
+ * @description: 比较含退格的字符串
  * @author: 宋丽
  * @create: 2020-10-19 10:11
  **/
