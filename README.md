@@ -65,6 +65,7 @@
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Math/FizzBuzz.java">[FizzBuzz]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Math/IsPalindrome.java">[isPalindrome 回文数]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Math/IsPowerOfThree.java">[isPowerOfThree 3的幂]</a></br>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Math/MyPow.java">[myPow 实现pow(x, n), 即计算x的n次幂]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Math/RomanToInt.java">[romanToInt 罗马数字转整数]</a></br>
 </details>
 
