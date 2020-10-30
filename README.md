@@ -28,7 +28,6 @@
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/SortColors.java">[sortColors 颜色排序]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/SortedSquares.java">[sortedSquares 有序数组的平方]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/ThreeSum.java">[threeSum 三数之和]</a></br>
-</details>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/UniqueOccurrences.javau">[uniqueOccurrences 独一无二的出现次数]</a></br>
 </details>
 <details>
