@@ -28,8 +28,8 @@
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/SortColors.java">[sortColors 颜色排序]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/SortedSquares.java">[sortedSquares 有序数组的平方]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/ThreeSum.java">[threeSum 三数之和]</a></br>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/UniqueOccurrences.javau">[uniqueOccurrences 独一无二的出现次数]</a></br>
 </details>
-
 <details>
 <summary><b>回溯</b></summary>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/Exist.java">[exist 单词搜索]</a></br>
@@ -86,6 +86,7 @@
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/GetMinimumDifference.java">[getMinimumDifference 二叉搜索树的最小绝对值]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/InorderTraversal.java">[inorderTraversal 二叉树的中序遍历]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/KthSmallest.java">[kthSmallest 二叉搜索树中第k小的元素]</a></br>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/SumNumbers.java">[sumNumbers 求根到叶子节点数字之和]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/NumIslands.java">[numIslands 岛屿数量]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/SumOfDistancesInTree.java">[sumOfDistancesInTree 树中距离之和 :sos:]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/ZigzagLevelOrder.java">[zigzagLevelOrder 锯齿形层次遍历]</a></br>
