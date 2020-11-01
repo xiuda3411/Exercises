@@ -92,3 +92,8 @@
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/TreeAndMap/ZigzagLevelOrder.java">[zigzagLevelOrder 锯齿形层次遍历]</a></br>
 </details>
 
+<details>
+<summary><b>设计</b></summary>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Design/RandomizedCollection.java">[randomizedCollection O(1) 时间插入、删除和获取随机元素 - 允许重复]</a></br>
+</details>
+
