@@ -61,7 +61,9 @@ public class NumSplits {
         int[] left = new int[256], right = new int[256];
         for(char c : s.toCharArray()) {
             System.out.println(right[c]);
-            if(right[c]++ == 0) count++;
+            if(right[c]++ == 0) {
+                count++;
+            }
         }
         int res = 0, l = 0, r = count;
         for(int i = 0; i < n - 1; i++) {
