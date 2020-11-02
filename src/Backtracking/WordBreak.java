@@ -8,6 +8,7 @@ import java.util.*;
  * @author: 宋丽
  * @create: 2020-11-01 21:13
  **/
+
 public class WordBreak {
     public List<String> wordBreak(String s, List<String> wordDict) {
         Map<Integer, List<List<String>>> map = new HashMap<Integer, List<List<String>>>();
