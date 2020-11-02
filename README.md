@@ -16,6 +16,7 @@
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/FourSum.java">[fourSum 四数之和]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/GroupAnagrams.java">[groupAnagrams 字母异位词分组]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/IncreasingTriplet.java">[increasingTriplet 递增的三元子序列]</a></br>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/Intersection.java">[intersection 两个数组的交集]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/IsLongPressedName.java">[isLongPressedName 长按键入]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/LengthOfLongestSubstring.java">[lengthOfLongestSubstring 无重复字符的最长子串]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/LongestMountain.java">[longestMountain 数组中的最长山脉]</a></br>
@@ -37,7 +38,8 @@
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/LetterCombinations.java">[letterCombinations 电话号码的字母组合]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/Permute.java">[permute 全排列]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/Subsets.java">[subset 子集]</a></br>
-- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/TotalNQueens.java">[totalNQueens tN皇后 II]</a></br>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/TotalNQueens.java">[totalNQueens N皇后 II]</a></br>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/WordBreak.java">[wordBreak 单词拆分2]</a></br>
 </details>
 
 <details>
