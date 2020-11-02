@@ -1,4 +1,4 @@
-package ArraysAndStrings;
+package DynamicProgramming;
 
 import java.util.Arrays;
 import java.util.HashSet;
