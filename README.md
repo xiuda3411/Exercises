@@ -39,7 +39,7 @@
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/Permute.java">[permute 全排列]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/Subsets.java">[subset 子集]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/TotalNQueens.java">[totalNQueens N皇后 II]</a></br>
-- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/WordBreak.java">[wordBreak 单词拆分2]</a></br>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Backtracking/WordBreak.java">[wordBreak单词拆分2]</a></br>
 </details>
 
 <details>
