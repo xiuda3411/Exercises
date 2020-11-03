@@ -44,10 +44,11 @@
 
 <details>
 <summary><b>动态规划</b></summary>
-- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/DynamicProgramming/CanPartition.java">[CanPartition 分割等和子集]</a></br>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/DynamicProgramming/CanPartition.java">[canPartition 分割等和子集]</a></br>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/DynamicProgramming/NumSplits.java">[numSplits 字符串的好分割数目]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/DynamicProgramming/VideoStitching.java">[videoStitching 视频拼接]</a></br>
 </details>
-
+ 
 <details>
 <summary><b>链表</b></summary>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/LinkedList/AddTwoNumbers.java">[addTwoNumbers 两数相加]</a></br>
