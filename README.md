@@ -13,6 +13,7 @@
 <summary><b>数组和字符串</b></summary>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/BackspaceCompare.java">[backspaceCompare 比较含退格的字符串]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/CommonChars.java">[commonChars 查找常用字符]</a></br>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/FindRepeatNumber.java">[findRepeatNumber 四数之和]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/FourSum.java">[fourSum 四数之和]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/GroupAnagrams.java">[groupAnagrams 字母异位词分组]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/IncreasingTriplet.java">[increasingTriplet 递增的三元子序列]</a></br>
