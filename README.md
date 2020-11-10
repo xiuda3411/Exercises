@@ -22,6 +22,7 @@
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/LengthOfLongestSubstring.java">[lengthOfLongestSubstring 无重复字符的最长子串]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/LongestMountain.java">[longestMountain 数组中的最长山脉]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/LongestPalindrome.java">[longestPalindrome 最长回文子串]</a></br>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/NextPermutation.java">[nextPermutation 下一个排序]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/PartitionLabels.java">[partitionLabels 划分字母区间]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/RemoveElement.java">[removeElement 移除元素]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/ReverseString.java">[reverseString 反转字符串]</a></br>
