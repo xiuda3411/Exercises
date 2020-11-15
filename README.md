@@ -25,6 +25,7 @@
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/NextPermutation.java">[nextPermutation 下一个排序]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/PartitionLabels.java">[partitionLabels 划分字母区间]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/RemoveElement.java">[removeElement 移除元素]</a></br>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/RemoveKdigits.java">[removeKdigits 移除K位元素]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/ReverseString.java">[reverseString 反转字符串]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/SetZeroes.java">[setZeroes 矩阵置零]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/ArraysAndStrings/SmallerNumbersThanCurrent.java">[smallerNumbersThanCurrent 有多少小于当前数字的数字]</a></br>
@@ -101,6 +102,7 @@
 
 <details>
 <summary><b>设计</b></summary>
+ - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Design/OrderedStream.java">[orderedStream 设计有序流]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/Design/RandomizedCollection.java">[randomizedCollection O(1) 时间插入、删除和获取随机元素 - 允许重复]</a></br>
 </details>
 
