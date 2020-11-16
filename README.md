@@ -79,8 +79,9 @@
 <details>
 <summary><b>排序和搜索</b></summary>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/SortAndSearch/Merge.java">[merge 合并区间]</a></br>
-- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/SortAndSearch/Search.java">[search 搜索旋转排序数组]</a></br>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/SortAndSearch/ReconstructQueue.java">[reconstructQueue 根据身高重建队列]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/SortAndSearch/RelativeSortArray.java">[relativeSortArray 数组的相对排序]</a></br>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/SortAndSearch/Search.java">[search 搜索旋转排序数组]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/SortAndSearch/SearchMatrix.java">[searchMatrix 搜索二维矩阵2]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/SortAndSearch/SortArrayByParityII.java">[sortArrayByParityII 按奇偶排序数组2]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/SortAndSearch/SearchRange.java">[searchRange 在排序数组中查找元素的第一个和最后一个位置]</a></br>
