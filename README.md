@@ -78,6 +78,7 @@
 
 <details>
 <summary><b>排序和搜索</b></summary>
+- <a href="https://github.com/xiuda3411/Exercises/blob/master/src/SortAndSearch/AllCellsDistOrder.java">[allCellsDistOrder 合并区间]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/SortAndSearch/Merge.java">[merge 合并区间]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/SortAndSearch/ReconstructQueue.java">[reconstructQueue 根据身高重建队列]</a></br>
 - <a href="https://github.com/xiuda3411/Exercises/blob/master/src/SortAndSearch/RelativeSortArray.java">[relativeSortArray 数组的相对排序]</a></br>
