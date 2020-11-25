@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f9d94a5-d899-4385-aedf-d16b1c437deb" name="Default Changelist" comment="有效的括号:waning_crescent_moon::waxing_crescent_moon:">
+      <change afterPath="$PROJECT_DIR$/src/ArraysAndStrings/SortString.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/MinimumDeleteSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortAndSearch/LadderLength.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,79 +19,143 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="187" />
+          <entry key="java" value="226" />
+          <entry key="md" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="187" />
+          <entry key="JAVA" value="226" />
+          <entry key="Markdown" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="25770" />
-          <entry key="txt" value="479" />
+          <entry key="java" value="27950" />
+          <entry key="txt" value="669" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="25770" />
-          <entry key="PLAIN_TEXT" value="480" />
+          <entry key="JAVA" value="27950" />
+          <entry key="PLAIN_TEXT" value="670" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="38" />
+          <entry key="project.closed" value="59" />
           <entry key="project.open.time.102" value="1" />
           <entry key="project.open.time.111" value="1" />
+          <entry key="project.open.time.118" value="1" />
+          <entry key="project.open.time.122" value="1" />
+          <entry key="project.open.time.141" value="1" />
+          <entry key="project.open.time.144" value="1" />
+          <entry key="project.open.time.168" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.41" value="3" />
           <entry key="project.open.time.42" value="5" />
-          <entry key="project.open.time.43" value="1" />
-          <entry key="project.open.time.44" value="3" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.44" value="5" />
           <entry key="project.open.time.45" value="4" />
-          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="4" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.52" value="2" />
+          <entry key="project.open.time.55" value="2" />
           <entry key="project.open.time.56" value="2" />
-          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.61" value="2" />
           <entry key="project.open.time.63" value="1" />
           <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.70" value="1" />
           <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.80" value="3" />
           <entry key="project.open.time.81" value="2" />
           <entry key="project.open.time.84" value="1" />
           <entry key="project.open.time.87" value="1" />
           <entry key="project.open.time.92" value="1" />
-          <entry key="project.opened" value="40" />
+          <entry key="project.opened" value="63" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Design/RandomizedCollection.java">
+        <entry file="file://$PROJECT_DIR$/src/TreeAndMap/ZigzagLevelOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            <state relative-caret-position="250">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TreeAndMap/InorderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TreeAndMap/LevelOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TreeAndMap/CountNodes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Backtracking/WordBreak.java">
+        <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/SortString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="525">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/MinimumDeleteSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/NumberOfGoodWaysToSplitAString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="63" column="40" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -97,11 +163,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/Intersection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
+            <state relative-caret-position="150">
               <caret line="7" column="24" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1541#1550#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,8 +175,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/IntersectionOfTwoArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="65" column="5" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+            <state relative-caret-position="1025">
+              <caret line="65" column="5" selection-start-line="35" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -155,43 +220,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/TreeAndMap/GetMinimumDifference.java" />
-        <option value="$PROJECT_DIR$/src/Backtracking/Permute.java" />
-        <option value="$PROJECT_DIR$/src/Backtracking/Subsets.java" />
-        <option value="$PROJECT_DIR$/src/Backtracking/Exist.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/SwapPairs.java" />
-        <option value="$PROJECT_DIR$/src/TreeAndMap/Connect.java" />
-        <option value="$PROJECT_DIR$/src/ArraysAndStrings/CommonChars.java" />
-        <option value="$PROJECT_DIR$/src/ArraysAndStrings/SortedSquares.java" />
-        <option value="$PROJECT_DIR$/src/Backtracking/TotalNQueens.java" />
-        <option value="$PROJECT_DIR$/src/SortAndSearch/TopKFrequent.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/RemoveNthFromEnd.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/ReorderList.java" />
-        <option value="$PROJECT_DIR$/src/ArraysAndStrings/IsLongPressedName.java" />
-        <option value="$PROJECT_DIR$/src/ArraysAndStrings/PartitionLabels.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/IsPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/SortAndSearch/[34]在排序数组中查找元素的第一个和最后一个位置.java" />
-        <option value="$PROJECT_DIR$/leetcode/editor/cn/[34]在排序数组中查找元素的第一个和最后一个位置.java" />
-        <option value="$PROJECT_DIR$/leetcode/editor/cn/FindFirstAndLastPositionOfElementInSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/SortAndSearch/SearchRange.java" />
-        <option value="$PROJECT_DIR$/leetcode/editor/cn/VideoStitching.java" />
-        <option value="$PROJECT_DIR$/src/DynamicProgramming/VideoStitching.java" />
-        <option value="$PROJECT_DIR$/leetcode/editor/cn/MergeIntervals.java" />
-        <option value="$PROJECT_DIR$/src/SortAndSearch/Merge.java" />
-        <option value="$PROJECT_DIR$/leetcode/editor/cn/LongestMountainInArray.java" />
-        <option value="$PROJECT_DIR$/src/ArraysAndStrings/LongestMountain.java" />
-        <option value="$PROJECT_DIR$/src/ArraysAndStrings/Search.java" />
-        <option value="$PROJECT_DIR$/leetcode/editor/cn/SearchInRotatedSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/SortAndSearch/Search.java" />
-        <option value="$PROJECT_DIR$/leetcode/editor/cn/HowManyNumbersAreSmallerThanTheCurrentNumber.java" />
-        <option value="$PROJECT_DIR$/src/ArraysAndStrings/SmallerNumbersThanCurrent.java" />
-        <option value="$PROJECT_DIR$/leetcode/editor/cn/SearchA2dMatrix.java" />
         <option value="$PROJECT_DIR$/src/SortAndSearch/SearchMatrix.java" />
         <option value="$PROJECT_DIR$/src/ArraysAndStrings/BackspaceCompare.java" />
         <option value="$PROJECT_DIR$/leetcode/editor/cn/PalindromeNumber.java" />
         <option value="$PROJECT_DIR$/src/Math/IsPalindrome.java" />
         <option value="$PROJECT_DIR$/leetcode/editor/cn/RemoveElement.java" />
-        <option value="$PROJECT_DIR$/src/ArraysAndStrings/RemoveElement.java" />
         <option value="$PROJECT_DIR$/leetcode/editor/cn/PowxN.java" />
         <option value="$PROJECT_DIR$/src/Math/MyPow.java" />
         <option value="$PROJECT_DIR$/src/ArraysAndStrings/UniqueOccurrences.java" />
@@ -206,6 +239,38 @@
         <option value="$PROJECT_DIR$/leetcode/editor/cn/IntersectionOfTwoArrays.java" />
         <option value="$PROJECT_DIR$/src/ArraysAndStrings/Intersection.java" />
         <option value="$PROJECT_DIR$/src/Backtracking/WordBreak.java" />
+        <option value="$PROJECT_DIR$/leetcode/editor/cn/NumberOfGoodWaysToSplitAString.java" />
+        <option value="$PROJECT_DIR$/src/ArraysAndStrings/NumSplits.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProgramming/NumSplits.java" />
+        <option value="$PROJECT_DIR$/src/ArraysAndStrings/ValidMountainArray.java" />
+        <option value="$PROJECT_DIR$/src/ArraysAndStrings/FourSum.java" />
+        <option value="$PROJECT_DIR$/src/ArraysAndStrings/GroupAnagrams.java" />
+        <option value="$PROJECT_DIR$/src/SortAndSearch/Insert.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProgramming/UniquePaths.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProgramming/CoinChange.java" />
+        <option value="$PROJECT_DIR$/src/SortAndSearch/LadderLength.java" />
+        <option value="$PROJECT_DIR$/src/SortAndSearch/Merge.java" />
+        <option value="$PROJECT_DIR$/src/SortAndSearch/SortByBits.java" />
+        <option value="$PROJECT_DIR$/src/SortAndSearch/GetLeastNumbers.java" />
+        <option value="$PROJECT_DIR$/src/ArraysAndStrings/FindRepeatNumber.java" />
+        <option value="$PROJECT_DIR$/src/ArraysAndStrings/NextPermutation.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProgramming/findRotateSteps.java" />
+        <option value="$PROJECT_DIR$/src/SortAndSearch/SortArrayByParityII.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/OddEvenList.java" />
+        <option value="$PROJECT_DIR$/src/SortAndSearch/RelativeSortArray.java" />
+        <option value="$PROJECT_DIR$/src/ArraysAndStrings/RemoveKdigits.java" />
+        <option value="$PROJECT_DIR$/src/Design/OrderedStream.java" />
+        <option value="$PROJECT_DIR$/src/SortAndSearch/ReconstructQueue.java" />
+        <option value="$PROJECT_DIR$/src/SortAndSearch/AllCellsDistOrder.java" />
+        <option value="$PROJECT_DIR$/src/Math/CanCompleteCircuit.java" />
+        <option value="$PROJECT_DIR$/src/ArraysAndStrings/RemoveElement.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/InsertionSortList.java" />
+        <option value="$PROJECT_DIR$/src/ArraysAndStrings/GetSmallestString.java" />
+        <option value="$PROJECT_DIR$/src/ArraysAndStrings/IsAnagram.java" />
+        <option value="$PROJECT_DIR$/src/ArraysAndStrings/FindMinArrowShots.java" />
+        <option value="$PROJECT_DIR$/src/TreeAndMap/LevelOrder.java" />
+        <option value="$PROJECT_DIR$/src/TreeAndMap/CountNodes.java" />
+        <option value="$PROJECT_DIR$/src/ArraysAndStrings/SortString.java" />
       </list>
     </option>
   </component>
@@ -222,8 +287,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="56" />
+    <option name="x" value="-167" />
+    <option name="y" value="72" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -254,6 +319,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -280,32 +346,24 @@
             <path>
               <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="editor" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Backtracking" type="462c0819:PsiDirectoryNode" />
+              <item name="ArraysAndStrings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604286330285" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606295845166" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
@@ -430,224 +488,30 @@
       <workItem from="1604052328164" duration="2732000" />
       <workItem from="1604136522180" duration="5927000" />
       <workItem from="1604236086664" duration="1031000" />
-      <workItem from="1604283445268" duration="2833000" />
-    </task>
-    <task id="LOCAL-00027" summary="二叉树的中序遍历:palm_tree:">
-      <created>1602159167398</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1602159167398</updated>
-    </task>
-    <task id="LOCAL-00028" summary="二叉树结点">
-      <created>1602159179309</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1602159179309</updated>
-    </task>
-    <task id="LOCAL-00029" summary="锯齿形层次遍历:crocodile:">
-      <created>1602159240690</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1602159240690</updated>
-    </task>
-    <task id="LOCAL-00030" summary="带有next属性的结点">
-      <created>1602161738366</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1602161738366</updated>
-    </task>
-    <task id="LOCAL-00031" summary="填充每个节点的下一个右侧节点指针:point_right:">
-      <created>1602161792456</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1602161792456</updated>
-    </task>
-    <task id="LOCAL-00032" summary="填充每个节点的下一个右侧节点指针:point_right:">
-      <created>1602161812479</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1602161812479</updated>
-    </task>
-    <task id="LOCAL-00033" summary="填充每个节点的下一个右侧节点指针:point_right:">
-      <created>1602215844441</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1602215844441</updated>
-    </task>
-    <task id="LOCAL-00034" summary="环形链表:white_circle:">
-      <created>1602243929169</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1602243929169</updated>
-    </task>
-    <task id="LOCAL-00035" summary="二叉搜索树中第k小的元素:two_women_holding_hands:">
-      <created>1602243974866</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1602243974866</updated>
-    </task>
-    <task id="LOCAL-00036" summary="岛屿数量:earth_asia:">
-      <created>1602244131200</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1602244131200</updated>
-    </task>
-    <task id="LOCAL-00037" summary="环形链表2:white_circle:">
-      <created>1602334314989</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1602334314989</updated>
-    </task>
-    <task id="LOCAL-00038" summary="电话号码的字母组合:phone:">
-      <created>1602334354059</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1602334354059</updated>
-    </task>
-    <task id="LOCAL-00039" summary="括号生成:partly_sunny:">
-      <created>1602413890495</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1602413890495</updated>
-    </task>
-    <task id="LOCAL-00040" summary="分割等和子集:baby::baby:">
-      <created>1602413946819</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1602413946819</updated>
-    </task>
-    <task id="LOCAL-00041" summary="分割等和子集:baby::baby:">
-      <created>1602416076756</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1602416076756</updated>
-    </task>
-    <task id="LOCAL-00042" summary="子集:city_sunset:">
-      <created>1602508702170</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1602508702170</updated>
-    </task>
-    <task id="LOCAL-00043" summary="全排列:fallen_leaf:">
-      <created>1602508752050</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1602508752050</updated>
-    </task>
-    <task id="LOCAL-00044" summary="二叉搜索树的最小绝对值:minidisc:">
-      <created>1602508835487</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1602508835487</updated>
-    </task>
-    <task id="LOCAL-00045" summary="单词搜索:mag:">
-      <created>1602575378866</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1602575378866</updated>
-    </task>
-    <task id="LOCAL-00046" summary="两两交换链表中的结点:raised_hands:">
-      <created>1602575618877</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1602575618877</updated>
-    </task>
-    <task id="LOCAL-00047" summary="查找常用字符:mag_right:">
-      <created>1602666392924</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1602666392924</updated>
-    </task>
-    <task id="LOCAL-00048" summary="填充每个节点的下一个右侧节点指针 增加递归算法:point_right:">
-      <created>1602761889811</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1602761889811</updated>
-    </task>
-    <task id="LOCAL-00049" summary="有序数组的平方:a:">
-      <created>1602825245832</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1602825245832</updated>
-    </task>
-    <task id="LOCAL-00050" summary="N皇后问题2:grey_question:">
-      <created>1602923772912</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1602923772920</updated>
-    </task>
-    <task id="LOCAL-00051" summary="前K个高频元素:wink:">
-      <created>1603008820590</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1603008820590</updated>
-    </task>
-    <task id="LOCAL-00052" summary="删除链表的倒数第N个结点:back:">
-      <created>1603011113368</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1603011113368</updated>
-    </task>
-    <task id="LOCAL-00053" summary="比较含退格的字符串:back:">
-      <created>1603078650857</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1603078650858</updated>
-    </task>
-    <task id="LOCAL-00054" summary="重排链表:information_desk_person:">
-      <created>1603196593539</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1603196593540</updated>
-    </task>
-    <task id="LOCAL-00055" summary="长按键入:waxing_crescent_moon:">
-      <created>1603254638122</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1603254638123</updated>
-    </task>
-    <task id="LOCAL-00056" summary="划分字母区间:bowtie:">
-      <created>1603378012948</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1603378012949</updated>
-    </task>
-    <task id="LOCAL-00057" summary="回文链表:palm_tree:">
-      <created>1603455661466</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1603455661466</updated>
+      <workItem from="1604283445268" duration="3131000" />
+      <workItem from="1604305372676" duration="6919000" />
+      <workItem from="1604380161942" duration="2339000" />
+      <workItem from="1604454747917" duration="203000" />
+      <workItem from="1604560160438" duration="4461000" />
+      <workItem from="1604629466316" duration="3960000" />
+      <workItem from="1604836678545" duration="2464000" />
+      <workItem from="1604911074362" duration="1323000" />
+      <workItem from="1605011127749" duration="2063000" />
+      <workItem from="1605084704878" duration="1115000" />
+      <workItem from="1605190906731" duration="500000" />
+      <workItem from="1605266927801" duration="1452000" />
+      <workItem from="1605354716827" duration="475000" />
+      <workItem from="1605408051169" duration="2788000" />
+      <workItem from="1605515251012" duration="1813000" />
+      <workItem from="1605608527935" duration="2942000" />
+      <workItem from="1605665433628" duration="992000" />
+      <workItem from="1605781684383" duration="870000" />
+      <workItem from="1605877458718" duration="404000" />
+      <workItem from="1606015554005" duration="1209000" />
+      <workItem from="1606042301922" duration="931000" />
+      <workItem from="1606120297053" duration="2046000" />
+      <workItem from="1606217465598" duration="2118000" />
+      <workItem from="1606295497264" duration="335000" />
     </task>
     <task id="LOCAL-00058" summary="在排序数组中查找元素的第一个和最后一个位置:first_quarter_moon:">
       <created>1603460018093</created>
@@ -775,11 +639,228 @@
       <option name="project" value="LOCAL" />
       <updated>1604286190472</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="两个数组的交集:runner:">
+      <created>1604286306345</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1604286306345</updated>
+    </task>
+    <task id="LOCAL-00077" summary=":v:">
+      <created>1604286354960</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1604286354960</updated>
+    </task>
+    <task id="LOCAL-00078" summary="字符串的好分割数目:metal:">
+      <created>1604313393915</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1604313393916</updated>
+    </task>
+    <task id="LOCAL-00079" summary="字符串的好分割数目:metal:">
+      <created>1604313566317</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1604313566317</updated>
+    </task>
+    <task id="LOCAL-00080" summary="字符串的好分割数目:metal:">
+      <created>1604313612555</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1604313612555</updated>
+    </task>
+    <task id="LOCAL-00081" summary="字符串的好分割数目:metal:">
+      <created>1604313923806</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1604313923806</updated>
+    </task>
+    <task id="LOCAL-00082" summary="有效的山脉:sunrise_over_mountains:">
+      <created>1604381478797</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1604381478798</updated>
+    </task>
+    <task id="LOCAL-00083" summary="插入区间">
+      <created>1604454860050</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1604454860051</updated>
+    </task>
+    <task id="LOCAL-00084" summary="零钱兑换">
+      <created>1604581651814</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1604581651814</updated>
+    </task>
+    <task id="LOCAL-00085" summary="不同路径">
+      <created>1604581681855</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1604581681855</updated>
+    </task>
+    <task id="LOCAL-00086" summary="根据数字二进制下1的数目排序">
+      <created>1604654588753</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1604654588753</updated>
+    </task>
+    <task id="LOCAL-00087" summary="动态规划">
+      <created>1604654628342</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1604654628342</updated>
+    </task>
+    <task id="LOCAL-00088" summary="数组中重复的数字">
+      <created>1604840045454</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1604840045455</updated>
+    </task>
+    <task id="LOCAL-00089" summary="最小的K个数">
+      <created>1604915487851</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1604915487851</updated>
+    </task>
+    <task id="LOCAL-00090" summary="下一个排序">
+      <created>1605012408135</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1605012408136</updated>
+    </task>
+    <task id="LOCAL-00091" summary="平凡之路">
+      <created>1605105554595</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1605105554595</updated>
+    </task>
+    <task id="LOCAL-00092" summary="按奇偶排序数组2">
+      <created>1605191306175</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1605191306176</updated>
+    </task>
+    <task id="LOCAL-00093" summary="奇偶链表">
+      <created>1605268371266</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1605268371267</updated>
+    </task>
+    <task id="LOCAL-00094" summary="数组的相对排序">
+      <created>1605355189683</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1605355189683</updated>
+    </task>
+    <task id="LOCAL-00095" summary="设计有序流">
+      <created>1605423490067</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1605423490068</updated>
+    </task>
+    <task id="LOCAL-00096" summary="移出K位元素">
+      <created>1605423514239</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1605423514239</updated>
+    </task>
+    <task id="LOCAL-00097" summary="根据身高重建队列">
+      <created>1605516926206</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1605516926206</updated>
+    </task>
+    <task id="LOCAL-00098" summary="距离顺序排序矩阵单元格">
+      <created>1605612487248</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1605612487249</updated>
+    </task>
+    <task id="LOCAL-00099" summary="加油站:volcano:">
+      <created>1605665941347</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1605665941348</updated>
+    </task>
+    <task id="LOCAL-00100" summary="更新更简便方法">
+      <created>1605781952870</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781952871</updated>
+    </task>
+    <task id="LOCAL-00101" summary="对链表进行插入排序">
+      <created>1605877636900</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1605877636900</updated>
+    </task>
+    <task id="LOCAL-00102" summary="有效的字母异位词">
+      <created>1606043567063</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1606043567064</updated>
+    </task>
+    <task id="LOCAL-00103" summary="具有给定数值的最小字符串">
+      <created>1606043597818</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1606043597818</updated>
+    </task>
+    <task id="LOCAL-00104" summary="用最少数量的箭引爆气球">
+      <created>1606120748633</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1606120748634</updated>
+    </task>
+    <task id="LOCAL-00105" summary="二叉树的层次遍历">
+      <created>1606122998565</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1606122998565</updated>
+    </task>
+    <task id="LOCAL-00106" summary="完全二叉树的节点个数">
+      <created>1606220921716</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1606220921716</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="269046000" />
+    <option name="totallyTimeSpent" value="313066000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -791,9 +872,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="56" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2208" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28586668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -809,8 +891,8 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.499194" weight="0.32894737" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5008" side_tool="true" visible="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3275488" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5002667" side_tool="true" visible="true" weight="0.16720955" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49973333" weight="0.32681867" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -831,307 +913,34 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="前K个高频元素:wink:" />
-    <MESSAGE value="删除链表的倒数第N个结点" />
-    <MESSAGE value="删除链表的倒数第N个结点:back:" />
-    <MESSAGE value="重排链表:information_desk_person:" />
-    <MESSAGE value="长按键入:waxing_crescent_moon:" />
-    <MESSAGE value="划分字母区间:bowtie:" />
-    <MESSAGE value="回文链表:palm_tree:" />
-    <MESSAGE value="在排序数组中查找元素的第一个和最后一个位置:first_quarter_moon:" />
-    <MESSAGE value="合并区间:swimmer:" />
-    <MESSAGE value="视频拼接:video_camera:" />
-    <MESSAGE value="数组中的最长山脉:mountain_bicyclist:" />
-    <MESSAGE value="搜索旋转排序数组:mag:" />
-    <MESSAGE value="有多少小于当前数字的数字:guardsman:" />
-    <MESSAGE value="搜索二维矩阵2:bride_with_veil:" />
-    <MESSAGE value="比较含退格的字符串:back:" />
-    <MESSAGE value="回文数:dromedary_camel:" />
-    <MESSAGE value="移除元素:no_entry:" />
-    <MESSAGE value="实现pow(x, n), 即计算x的n次幂:v:" />
-    <MESSAGE value="独一无二的出现次数:soccer:" />
-    <MESSAGE value="求根到叶子节点数字之和:mouse2:" />
-    <MESSAGE value="岛屿周长:rice_scene:" />
-    <MESSAGE value="O(1)时间插入、删除和获取随机元素-允许重复" />
-    <MESSAGE value="单词拆分2:v:" />
-    <MESSAGE value="两个数组的交集:runner:" />
-    <MESSAGE value="有效的括号:waning_crescent_moon::waxing_crescent_moon:" />
-    <option name="LAST_COMMIT_MESSAGE" value="有效的括号:waning_crescent_moon::waxing_crescent_moon:" />
+    <MESSAGE value="有效的山脉:sunrise_over_mountains:" />
+    <MESSAGE value="插入区间" />
+    <MESSAGE value="零钱兑换" />
+    <MESSAGE value="不同路径" />
+    <MESSAGE value="根据数字二进制下1的数目排序" />
+    <MESSAGE value="动态规划" />
+    <MESSAGE value="数组中重复的数字" />
+    <MESSAGE value="最小的K个数" />
+    <MESSAGE value="下一个排序" />
+    <MESSAGE value="平凡之路" />
+    <MESSAGE value="按奇偶排序数组2" />
+    <MESSAGE value="奇偶链表" />
+    <MESSAGE value="数组的相对排序" />
+    <MESSAGE value="设计有序流" />
+    <MESSAGE value="移出K位元素" />
+    <MESSAGE value="根据身高重建队列" />
+    <MESSAGE value="距离顺序排序矩阵单元格" />
+    <MESSAGE value="加油站:volcano:" />
+    <MESSAGE value="更新更简便方法" />
+    <MESSAGE value="对链表进行插入排序" />
+    <MESSAGE value="有效的字母异位词" />
+    <MESSAGE value="具有给定数值的最小字符串" />
+    <MESSAGE value="用最少数量的箭引爆气球" />
+    <MESSAGE value="二叉树的层次遍历" />
+    <MESSAGE value="完全二叉树的节点个数" />
+    <option name="LAST_COMMIT_MESSAGE" value="完全二叉树的节点个数" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/ThreeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Backtracking/Exist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Backtracking/GenerateParenthesis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Backtracking/LetterCombinations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Backtracking/Permute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Backtracking/Subsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="845">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Backtracking/TotalNQueens.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/CanPartition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/VideoStitching.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/DetectCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/GetIntersectionNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/HasCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/IsPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/OddEvenList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/RemoveNthFromEnd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/ReorderList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/SwapPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/Merge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/SearchMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/SearchRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/TopKFrequent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeAndMap/BuildTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeAndMap/Connect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeAndMap/GetMinimumDifference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeAndMap/InorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeAndMap/KthSmallest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeAndMap/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeAndMap/NumIslands.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeAndMap/SumOfDistancesInTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/PalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="38" selection-start-line="38" selection-end-line="46" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/RemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="73" column="5" selection-start-line="59" selection-start-column="4" selection-end-line="73" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/RemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/PowxN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="63" column="22" selection-start-line="38" selection-start-column="4" selection-end-line="63" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Math/MyPow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/UniqueOccurrences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeAndMap/SumNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/UniqueNumberOfOccurrences.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -1143,13 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1000">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/MinimumDeleteSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -1188,6 +990,302 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Backtracking/WordBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/NumSplits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="63" column="33" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/ValidMountainArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/FourSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/LongestMountain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/GroupAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/SearchRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/Insert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/UniquePaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="23" column="11" selection-start-line="18" selection-start-column="8" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/CoinChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/LadderLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="90" column="21" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/GetLeastNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1646">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/SortByBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/FindRepeatNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/NextPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="47" column="31" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/TopKFrequent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/findRotateSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/SortArrayByParityII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/RemoveKdigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/OddEvenList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/RelativeSortArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Design/OrderedStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/ReconstructQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortAndSearch/AllCellsDistOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/CanCompleteCircuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/RemoveElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/InsertionSortList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/IsAnagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/动态规划解题思路整理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="175">
+            <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/IMISworkinghome/jdk1.8.0_51/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-752">
+          <caret line="42" column="54" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/GetSmallestString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/FindMinArrowShots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeAndMap/ZigzagLevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeAndMap/InorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeAndMap/LevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/MinimumDeleteSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/NumberOfGoodWaysToSplitAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="63" column="40" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/Intersection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/IntersectionOfTwoArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="65" column="5" selection-start-line="35" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/InsertDeleteGetrandomO1DuplicatesAllowed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -1199,28 +1297,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/IntersectionOfTwoArrays.java">
+    <entry file="file://$PROJECT_DIR$/src/TreeAndMap/CountNodes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="65" column="5" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+        <state relative-caret-position="192">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/Intersection.java">
+    <entry file="file://$PROJECT_DIR$/src/ArraysAndStrings/SortString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1541#1550#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Backtracking/WordBreak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="525">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
         </state>
       </provider>
     </entry>
