@@ -52,4 +52,31 @@ public class SearchRange {
         }
         return -1;
     }
+
+    /**
+     * 双指针
+     * @param nums
+     * @param target
+     * @return
+     */
+    public int[] searchRange2(int[] nums, int target) {
+        int len = nums.length;
+        if(len < 1){
+            return new int[]{-1 , -1};
+        }
+        int left = 0;
+        int right = len - 1;
+        while(nums[left] != target || nums[right] != target){
+            if(nums[left] != target){
+                left++;
+            }
+            if(nums[right] != target){
+                right--;
+            }
+            if(left > right){
+                return new int[]{-1 , -1};
+            }
+        }
+        return new int[]{left,right};
+    }
 }
