@@ -31,6 +31,7 @@ public class ReorganizeString {
             return "";
         }
         PriorityQueue<Character> queue = new PriorityQueue<Character>(new Comparator<Character>() {
+            @Override
             public int compare(Character letter1, Character letter2) {
                 return counts[letter2 - 'a'] - counts[letter1 - 'a'];
             }

@@ -22,6 +22,7 @@ public class SortByBits {
             bit[x] = get(x);
         }
         Collections.sort(list, new Comparator<Integer>() {
+            @Override
             public int compare(Integer x, Integer y) {
                 if (bit[x] != bit[y]) {
                     return bit[x] - bit[y];

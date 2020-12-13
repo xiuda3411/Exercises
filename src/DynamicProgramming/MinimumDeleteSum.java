@@ -7,7 +7,7 @@ package DynamicProgramming;
  * @create: 2020-10-28 10:39
  **/
 public class MinimumDeleteSum {
-    public int minimumDeleteSum(String s1, String s2) {
-
-    }
+//    public int minimumDeleteSum(String s1, String s2) {
+//
+//    }
 }
