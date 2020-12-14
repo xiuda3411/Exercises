@@ -10,6 +10,7 @@ package SortCollections;
 
 public class ExchangeSort {
     /**
+     * 冒泡排序
      * 最佳情况：T(n) = O(n)   最差情况：T(n) = O(n2)   平均情况：T(n) = O(n2)
      */
     public static int[] bubbleSort(int[] array){
@@ -28,5 +29,71 @@ public class ExchangeSort {
         return array;
     }
 
+    public static int[] quickSort(int[] array, int begin, int end){
+        if(begin < end){
+            int temp = array[begin];
+            int i = begin;
+            int j = end;
+            while(i < j){
+                while(i < j && array[j] > temp){
+                    j--;
+                }
+                array[i] = array[j];
+                while(i < j && array[i] <= temp){
+                    i++;
+                }
+                array[j] = array[i];
+            }
+            array[i] = temp;
+            quickSort(array, begin, i - 1);
+            quickSort(array, i + 1, end);
+        }
+        return array;
+    }
+//    public static void main(String[] args){
+//        int[] num = {23,45,17,11,13,89,72,26,3,17,11,13};
+//        int n = 12;
+//        num = quickSort(num,0,n-1);
+//        for(int i : num){
+//            System.out.print(i + " ");
+//        }
+//    }
+    
+//    public static int[] quickSort(int[] array, int start, int end){
+//        if(array.length < 1 || start < 0 || end >= array.length || start > end){
+//            return null;
+//        }
+//        int smallIndex = partition(array, start, end);
+//
+//    }
+//
+//    /**
+//     * 快速排序——分区操作partition
+//     * @param array
+//     * @param start
+//     * @param end
+//     * @return
+//     */
+//    private static int partition(int[] array, int start, int end) {
+//        //基准值，随机获取
+//        int pivot = (int)(start + Math.random() * (end - start + 1));
+//        int smallIndex = start - 1;
+//        swap(array, pivot, end);
+//        for(int i = start; i <= end; i++){
+//            if(array[i] <= array[end]){
+//                smallIndex++;
+//                if(i > smallIndex){
+//                    swap(array, i, smallIndex);
+//                }
+//            }
+//        }
+//        return smallIndex;
+//    }
+//
+//    private static void swap(int[] array, int i, int j) {
+//        int temp = array[i];
+//        array[i] = array[j];
+//        array[j] = temp;
+//    }
 
 }
