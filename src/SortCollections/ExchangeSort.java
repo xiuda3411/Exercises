@@ -29,6 +29,14 @@ public class ExchangeSort {
         return array;
     }
 
+    /**
+     * 快速排序
+     * 最佳情况：T(n) = O(nlogn) 每次取的基准都为中位数    最差情况：T(n) = O(n2) 每次取的基准为最大值或最小值  平均情况：T(n) = O(nlogn)　
+     * @param array
+     * @param begin
+     * @param end
+     * @return
+     */
     public static int[] quickSort(int[] array, int begin, int end){
         if(begin < end){
             int temp = array[begin];
