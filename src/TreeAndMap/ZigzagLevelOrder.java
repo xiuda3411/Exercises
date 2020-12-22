@@ -57,4 +57,54 @@ public class ZigzagLevelOrder {
         }
         return lists;
     }
+
+    /**
+     * 比上次好一点
+     * LinkedList<TreeNode> list = new LinkedList<>();
+     * 如果写成了List<TreeNode> list = new LinkedList<>();则无法使用removeFirst()等方法
+     * 因为父类引用只能访问子类的重写方法
+     * @param root
+     * @return
+     */
+    public List<List<Integer>> zigzagLevelOrder2(TreeNode root) {
+        if(root == null){
+            return null;
+        }
+        LinkedList<TreeNode> list = new LinkedList<>();
+        list.add(root);
+        List<List<Integer>> res = new LinkedList<>();
+        boolean flag = false;
+        while(!list.isEmpty()){
+            List<Integer> temp = new LinkedList<>();
+            int i = list.size();
+            //从左往右
+            if(!flag){
+                for(int j = 0 ; j < i ; j++){
+                    TreeNode t = list.removeFirst();
+                    temp.add(t.val);
+                    if(t.left != null){
+                        list.addLast(t.left);
+                    }
+                    if(t.right != null){
+                        list.addLast(t.right);
+                    }
+                }
+                flag = !flag;
+            }else{
+                for(int j = 0 ; j < i ; j++){
+                    TreeNode t = list.removeLast();
+                    temp.add(t.val);
+                    if(t.right != null){
+                        list.addFirst(t.right);
+                    }
+                    if(t.left != null){
+                        list.addFirst(t.left);
+                    }
+                }
+                flag = !flag;
+            }
+            res.add(temp);
+        }
+        return res;
+    }
 }
